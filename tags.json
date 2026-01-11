@@ -8,5 +8,10 @@
     "Identifier": "gauthee",
     "Whitelisted": [3388440829],
     "Tag": "<b><font color=\"#FFFFFF\">[</font><font color=\"#4A4A4A\">g</font><font color=\"#3C3C3C\">a</font><font color=\"#2A2A2A\">u</font><font color=\"#2A2A2A\">t</font><font color=\"#3C3C3C\">h</font><font color=\"#4A4A4A\">y</font><font color=\"#FFFFFF\">]</font></b>"
+  },
+  {
+    "Identifier": "bradathon",
+    "Whitelisted": [3657107776],
+    "Tag": "<b>[<font face=\"GothamBold\"><stroke color=\"#2b0000\" thickness=\"1\"><font color=\"#ff3b2f\">B</font><font color=\"#ff6a00\">R</font><font color=\"#ffb000\">4</font><font color=\"#ff6a00\">D</font></stroke></font>]</b>"
   }
 ]
