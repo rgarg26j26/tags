@@ -2,7 +2,8 @@
   {
     "Identifier": "greed",
     "Whitelisted": [516722736],
-    "Tag": "[<b><font color=\"#e30e06\">g</font><font color=\"#b10c05\">r</font><font color=\"#930904\">e</font><font color=\"#750703\">e</font><font color=\"#000000\">d</font></b>]"
+    "Tag": "[<b><font color=\"#e30e06\">g</font><font color=\"#b10c05\">r</font><font color=\"#930904\">e</font><font color=\"#750703\">e</font><font color=\"#000000\">d</font></b>]",
+    "Icon": "rbxassetid://131781737100479"
   },
   {
     "Identifier": "gauthee",
