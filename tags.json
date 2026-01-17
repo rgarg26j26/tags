@@ -13,7 +13,8 @@
   {
     "Identifier": "bradathon",
     "Whitelisted": [3657107776],
-    "Tag": "<b>[<font face=\"GothamBold\"><font color=\"#ff3b2f\">B</font><font color=\"#ff6a00\">R</font><font color=\"#ffb000\">4</font><font color=\"#ff6a00\">D</font></font>]</b>"
+    "Tag": "<b>[<font face=\"GothamBold\"><font color=\"#ff3b2f\">B</font><font color=\"#ff6a00\">R</font><font color=\"#ffb000\">4</font><font color=\"#ff6a00\">D</font></font>]</b>",
+    "Icon": "rbxassetid://108851725458616"
   },
   {
     "Identifier": "flickers, greed alt",
